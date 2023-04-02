@@ -6,6 +6,11 @@ body{
 	overflow:hidden;
 	background: linear-gradient(180deg, #989898, #ba9b65);		
 }
+@media (max-height: 600px) {
+	body {
+	  overflow-y: scroll;
+	}
+  }
 
 #canvas{
 	width: 960px;
