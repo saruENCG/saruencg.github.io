@@ -236,4 +236,7 @@ a { color: inherit; }
 #pide{
   width: 45%;
 }
-
+#hchon{
+  text-align: center;
+  font-family: 'Chinese Takeaway', sans-serif;
+}
