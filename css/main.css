@@ -1,4 +1,4 @@
-@import url('https://fonts.cdnfonts.com/css/chinese-takeaway');
+@import url('https://fonts.cdnfonts.com/css/chinese-asian-style');
 
 body {
   margin: 0;
@@ -228,7 +228,7 @@ footer .small-print {
 }
 
 #foot{
-  font-family: 'Chinese Takeaway', sans-serif;
+  font-family: 'Chinese Asian Style', sans-serif;
 }
 
 a { color: inherit; } 
@@ -238,5 +238,5 @@ a { color: inherit; }
 }
 #hchon{
   text-align: center;
-  font-family: 'Chinese Takeaway', sans-serif;
+  font-family: 'Chinese Asian Style', sans-serif;
 }
