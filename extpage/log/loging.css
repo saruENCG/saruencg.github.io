@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
-@import url('https://fonts.cdnfonts.com/css/chinese-takeaway');
+@import url('https://fonts.cdnfonts.com/css/chinese-asian-style');
 
 * {
 	box-sizing: border-box;
@@ -201,7 +201,7 @@ img {
 	font-size:50px;
 	margin-top: 3%;
 	color: #3e2510;
-	font-family: 'Chinese Takeaway', sans-serif;
+	font-family: 'Chinese Asian Style', sans-serif;
                                                 
 	
 }
