@@ -1,5 +1,7 @@
 /* Docs sample */
 
+@import url('https://fonts.cdnfonts.com/css/chinese-asian-style');
+
 body{
 	margin:0;
 	padding:0;
@@ -186,7 +188,7 @@ body{
 #hh{
 	margin-bottom: -4%;
 	text-align: center;
-	font-family: 'Chinese Takeaway', sans-serif;
+	font-family: 'Chinese Asian Style', sans-serif;
 }
 
 .removeFromDom {
