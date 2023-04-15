@@ -190,6 +190,9 @@ body{
 	text-align: center;
 	font-family: 'Chinese Asian Style', sans-serif;
 }
+.ha{
+	font-family: 'Chinese Asian Style', sans-serif;
+}
 
 .removeFromDom {
 	 display:none !important;
