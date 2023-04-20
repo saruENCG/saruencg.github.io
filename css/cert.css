@@ -1,3 +1,12 @@
+:root {
+  --white : #f2fcff;
+  --grey: #354f0caa;
+  --black : #4d6d08cc;
+  --black-s : #5c5304;
+  --purple : #b3c272cc;
+}
+
+
 .section {
     justify-content: center;
     align-items: center;
